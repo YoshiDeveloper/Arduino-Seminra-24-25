@@ -1,1 +1,1 @@
-Arduino Seminar 2024/2025!
+Wie verändert sich der CO2-Ausstoß eines Fahrzeugs, wenn es im Sport-, Normal- und Eco-Pro-Modus betrieben wird, gemessen über einen definierten Zeitraum und unter kontrollierten Fahrbedingungen?
